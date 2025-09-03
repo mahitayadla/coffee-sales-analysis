@@ -5,3 +5,6 @@ An end-to-end data analysis project creating a dynamic Coffee Sales Dashboard in
 <img width="233" height="217" alt="image" src="https://github.com/user-attachments/assets/81a47cf2-f116-49e7-855e-1d2c930ab457" />
 
 
+## Dashboard
+
+<img width="788" height="427" alt="image" src="https://github.com/user-attachments/assets/ec946261-3c26-49ac-a2f9-9fe9bab27a26" />
